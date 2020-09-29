@@ -1,0 +1,32 @@
+{
+"details":["Nandakumar Peddakotla","30-963,Balaji nagar,Dharmavaram,Andhrapradesh – 515 671.","r151439@rguktrkv.ac.in","9701467307."],
+"Objective":["Getting a software fresher position to learn new skills and contribute my skills."],
+"Education":[
+"Pursuing 4 th year B.Tech in Computer Science","RGUKT IIIT-AP, RK Valley | 2017-2021",
+"PUC with Maths,Physics and Chemistry – CGPA 8.80","RGUKT IIIT-AP, RK Valley | 2015-2017",
+"SSC(X th ) – CGPA 9.7","SPCS mpl School, Dharmavaram | 2015"
+
+],
+"Project":
+{"title":"Academic Projects",
+
+"list":
+[
+"Platform :HTML,Javascript,MYSQL Database,XAMPP server",
+"Implemented web application that is capable of providing interface for interacting students and higher officials in a university.",
+"Platform :HTML,Javascript,MYSQL Database,XAMPP server",
+"Implemented Cipher Block Chaining technique for encrypting data to the stored files of users in our web application."
+]},
+
+"Skills":
+{
+"Languages":["Proficient in Java","Python","C."],
+"IDE_Tools":["XAMPP","Android Studio","Arduino."],
+"Web_Designing":["HTML","CSS","JAVASCRIPT","PHP","MYSQL."]
+},
+
+"Accomplishments":[
+"- Secured 76.71 percentile in NCAT 2018.",
+"- Secured prize as a winner in expansion of ℮ on occasion of Mathematics Day."]
+
+}
